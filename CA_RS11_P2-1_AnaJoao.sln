@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSGymPT", "RSGymPT\RSGymPT.csproj", "{73AED406-44FA-4202-8ABC-051867057F84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utility", "Utility\Utility.csproj", "{77B8EB72-3544-4DC1-8731-DF84C078D44E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AED406-44FA-4202-8ABC-051867057F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AED406-44FA-4202-8ABC-051867057F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AED406-44FA-4202-8ABC-051867057F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AED406-44FA-4202-8ABC-051867057F84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77B8EB72-3544-4DC1-8731-DF84C078D44E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77B8EB72-3544-4DC1-8731-DF84C078D44E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77B8EB72-3544-4DC1-8731-DF84C078D44E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77B8EB72-3544-4DC1-8731-DF84C078D44E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C41AD0BD-007E-4616-A74B-F2A487239AA8}
+	EndGlobalSection
+EndGlobal

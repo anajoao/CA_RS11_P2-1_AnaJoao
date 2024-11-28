@@ -1,0 +1,6 @@
+C:\RS11\02_OOP\A02_C04_PII_1\CA_RS11_P2-1_AnaJoao\Utility\bin\Debug\Utility.dll
+C:\RS11\02_OOP\A02_C04_PII_1\CA_RS11_P2-1_AnaJoao\Utility\bin\Debug\Utility.pdb
+C:\RS11\02_OOP\A02_C04_PII_1\CA_RS11_P2-1_AnaJoao\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\RS11\02_OOP\A02_C04_PII_1\CA_RS11_P2-1_AnaJoao\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\RS11\02_OOP\A02_C04_PII_1\CA_RS11_P2-1_AnaJoao\Utility\obj\Debug\Utility.dll
+C:\RS11\02_OOP\A02_C04_PII_1\CA_RS11_P2-1_AnaJoao\Utility\obj\Debug\Utility.pdb
